@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{B2080A5F-8C0D-4FD9-BA5C-DBBF7B1A3A62}</ProjectGuid>
+    <ProjectGuid>{0B301541-9576-4A73-B87E-B121BBC7FFE7}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>WinFormPrac</RootNamespace>
-    <AssemblyName>WinFormPrac</AssemblyName>
+    <RootNamespace>WinFormPrac31</RootNamespace>
+    <AssemblyName>WinFormPrac31</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
